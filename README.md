@@ -4,4 +4,4 @@
 
 ### Dependências utilizadas: ###
 * Selenium WebDriver
-* JUnit
+* TestNG
