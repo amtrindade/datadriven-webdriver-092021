@@ -5,3 +5,4 @@
 ### Dependências utilizadas: ###
 * Selenium WebDriver
 * TestNG
+* Apache POI
